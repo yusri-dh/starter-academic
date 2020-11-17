@@ -6,9 +6,6 @@ interests:
   - Computational biology
   - Cell Shape and Movement Analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SGAbg5sAAAAJ&hl=en
